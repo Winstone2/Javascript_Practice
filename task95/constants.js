@@ -1,3 +1,3 @@
-export target = 'current';
-export plugins = ['syntax-async-functions', 'transform-regenerator'];
-export ecmaVersion = 'next';
+export const target = 'current';
+export const plugins = 'syntax-async-functions,transform-regenerator';
+export const ecmaVersion = 'next';

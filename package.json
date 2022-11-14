@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Winstone2/Javascript_Practice/issues"
   },
-  "homepage": "https://github.com/Winstone2/Javascript_Practice#readme"
+  "homepage": "https://github.com/Winstone2/Javascript_Practice#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }

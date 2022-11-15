@@ -1,4 +1,3 @@
-export const sum = ((2, 2), (-1, -5)) => {
-    2 + 2, -1 - 5;
-    return sum;
+export const sum = (x, y) => {
+    return x + y;
 }

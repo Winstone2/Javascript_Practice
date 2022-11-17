@@ -1,3 +1,9 @@
 export const min = (a, b, c) => {
-  return 0;
+    if (a > b && b < c) {
+        return b
+    } else if (b > a && a < c) {
+        return a
+    } else {
+        return c
+    }
 }

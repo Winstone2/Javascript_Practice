@@ -1,3 +1,1 @@
-export const oneWillDo = (x, y, z) => {
-  return true;
-}
+export const oneWillDo = (x, y, z) => x || y || z;
